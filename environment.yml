@@ -1,4 +1,4 @@
-name: design310
+name: design311
 channels:
   - pytorch
   - conda-forge
